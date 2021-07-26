@@ -47,7 +47,6 @@
 - [Food menu demo single page]( https://irayya-hiremath.github.io/js-test/// "Food menu") 
 - [cofee shop demo using bootstrap](https://irayya-hiremath.github.io/bootstarp_task1/)
 - [Odd Even Guess Game](https://irayya-hiremath.github.io/odd-evenguess/)
--  
 <!-- - [To Do List]( https://Irayya-Hiremath
 .github.io/To_Do_List// "To Do List") 
 - [Rock Paper Scissor game]( https://Irayya-Hiremath
