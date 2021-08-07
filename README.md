@@ -48,7 +48,7 @@
 - [Food menu demo single page]( https://irayya-hiremath.github.io/js-test/// "Food menu") 
 - [coffee shop demo using bootstrap](https://irayya-hiremath.github.io/bootstarp_task1/)
 - [Odd Even Guess Game](https://irayya-hiremath.github.io/odd-evenguess/)
-- [Race Game](https://irayya-hiremath.github.io/Race-game-js/)
+<!-- - [Race Game](https://irayya-hiremath.github.io/Race-game-js/) -->
 
 
 <!-- - [To Do List]( https://Irayya-Hiremath
