@@ -11,7 +11,8 @@
  
  #### *Currently working as an intern at Sathvik Softech, a start-up,since six months on end-to-end website development.*
  
-- 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" />
+<!-- - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" /> --> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  width="500" height="300" />
 - 🌱 I’m currently working on ` React js ` 
 - 📫 How to contact me: <br>
      <a href="mailto:ihiremath1991@gmail.com" ><img src="https://img.icons8.com/color/96/000000/gmail.png" width="30px" alt="email"/></a>
