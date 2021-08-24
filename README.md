@@ -53,14 +53,6 @@
 - [Race Game](https://irayya-hiremath.github.io/Race-game-js/)
 
 
-<!-- - [To Do List]( https://Irayya-Hiremath
-.github.io/To_Do_List// "To Do List") 
-- [Rock Paper Scissor game]( https://Irayya-Hiremath
-.github.io/Rock_Paper_Scissor_game// "Rock Paper Scissor game") 
-- [Bootstrap Template](https://Irayya-Hiremath
-.github.io/Bootstrap-Templete/ "Bootstrap template")
-- [Bootstrap Template Coffee shop](https://Irayya-Hiremath
-.github.io/Bootstrap_Template_Coffee_shop/ "Bootstrap Coffe shp template") -->
 
 
 
