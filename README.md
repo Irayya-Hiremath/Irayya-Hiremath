@@ -37,7 +37,8 @@
  <img src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor" alt="html" width="70" height="60"/>
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="html" width="70" height="60"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" alt="html" width="70" height="60"/>
- <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+ <img src="https://cdn.iconscout.com/icon/free/png-64/github-159-721954.png" alt="GitHub" width="40" height="40"/>
+ 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  alt="Visual Studio Code"   width="40" height="40"/>
   <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82?mode=scale&q=90&h=200&w=200&background=%23464646 " width="40" height="40"/>
   <img src="https://www.kindpng.com/picc/m/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png" alt="aws" width="40" height="40"/>
