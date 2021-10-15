@@ -36,7 +36,7 @@
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor" alt="html" width="70" height="60"/>
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="html" width="70" height="60"/>
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" alt="html" width="70" height="60"/>
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4murvZ3J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/dctau9dyp0hnxn6f0txh.png" alt="tailwind css" width="40" height="40"/>
  <img src="https://cdn.iconscout.com/icon/free/png-64/github-159-721954.png" alt="GitHub" width="40" height="40"/>
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  alt="Visual Studio Code"   width="40" height="40"/>
