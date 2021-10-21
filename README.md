@@ -49,6 +49,9 @@
 ### 👨‍💻Projects :
 
 - [My Portfolio](https://irayya-hiremath.github.io/I-portfolio/)   
+- [Image Slider](https://irayya-hiremath.github.io/ImageSlider/)  
+- [Iphone calculator](https://irayya-hiremath.github.io/Calculator/)   
+- [Text Utilities](https://irayya-hiremath.github.io/Text_Utilities)    
 - [Food menu demo single page]( https://irayya-hiremath.github.io/js-test/// "Food menu") 
 - [coffee shop demo using bootstrap](https://irayya-hiremath.github.io/bootstarp_task1/)
 - [Odd Even Guess Game](https://irayya-hiremath.github.io/odd-evenguess/)
