@@ -48,7 +48,7 @@
 ---
 ### 👨‍💻Projects :
 
-- [My Portfolio](https://irayya-hiremath.github.io/I-portfolio/)  
+<!-- - [My Portfolio](https://irayya-hiremath.github.io/I-portfolio/)   -->
 - [Movie_search_engine](https://irayya-hiremath.github.io/Movie_search_engine/)   
 - [Image Slider](https://irayya-hiremath.github.io/ImageSlider/)  
 - [Iphone calculator](https://irayya-hiremath.github.io/Calculator/)  
