@@ -11,7 +11,7 @@
  </p>
  <br>
  
- #### *Currently working as Front-End Developer at Samarthmeditech Pvt Ltd *
+ #### *Currently working as Front-End Developer at Trellisys.Net Pvt Ltd *
  
 <!-- - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" /> --> <img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  width="500" height="300" />
 - 🌱 I’m currently working on  `ReactJs`    
