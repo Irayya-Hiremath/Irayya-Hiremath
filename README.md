@@ -14,7 +14,7 @@
  #### *Currently working as Front-End Developer at Trellisys.Net Pvt Ltd *
  
 <!-- - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" /> --> <img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  width="500" height="300" />
-- 🌱 I’m currently working on  `ReactJs`    
+- 🌱 I’m currently working on  `React Js & Next Js`    
 <!--  ` React js `  -->
 - 📫 How to contact me: <br>
      <a href="mailto:ihiremath1991@gmail.com" ><img src="https://img.icons8.com/color/96/000000/gmail.png" width="30px" alt="email"/></a>
@@ -48,7 +48,7 @@
 ---
 ### 👨‍💻Projects :
 
-<!-- - [My Portfolio](https://irayya-hiremath.github.io/I-portfolio/)   -->
+- [My Portfolio](https://irayya-portfolio.vercel.app/)   
 - [Movie_search_engine](https://irayya-hiremath.github.io/Movie_search_engine/)   
 - [Image Slider](https://irayya-hiremath.github.io/ImageSlider/)  
 - [Iphone calculator](https://irayya-hiremath.github.io/Calculator/)  
